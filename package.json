@@ -1,8 +1,8 @@
 {
-  "name": "rebecaprestes.github.io",
+  "name": "site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rebecaprestes.github.io/",
+  "homepage": "https://bkprestes.github.io/site",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
